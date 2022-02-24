@@ -1,0 +1,1 @@
+my-c-variable-assignment 1
